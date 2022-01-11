@@ -1,0 +1,25 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolaswg/WebPack-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolaswg/WebPack-Project/issues"
+  },
+  "homepage": "https://github.com/Nicolaswg/WebPack-Project#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
